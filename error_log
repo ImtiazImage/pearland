@@ -1,0 +1,7 @@
+[21-May-2022 17:45:13 UTC] PHP Fatal error:  Cannot redeclare Usermodel::getlatest_news() in /home/pearlan/new.pearland411.com/application/models/Usermodel.php on line 541
+[21-May-2022 17:45:16 UTC] PHP Fatal error:  Cannot redeclare Usermodel::getlatest_news() in /home/pearlan/new.pearland411.com/application/models/Usermodel.php on line 541
+[28-May-2022 19:40:02 UTC] PHP Fatal error:  Cannot redeclare Admin::news_list() in /home/pearlan/new.pearland411.com/application/controllers/Admin.php on line 1578
+[11-Jun-2022 18:09:49 UTC] PHP Fatal error:  Cannot redeclare Admin::marketplace_list() in /home/pearlan/new.pearland411.com/application/controllers/Admin.php on line 2290
+[12-Jun-2022 20:28:10 UTC] PHP Fatal error:  Cannot redeclare User::products() in /home/pearlan/new.pearland411.com/application/controllers/User.php on line 3707
+[12-Jun-2022 20:28:46 UTC] PHP Fatal error:  Cannot redeclare User::news_details() in /home/pearlan/new.pearland411.com/application/controllers/User.php on line 3718
+[12-Jun-2022 20:28:47 UTC] PHP Fatal error:  Cannot redeclare User::news_details() in /home/pearlan/new.pearland411.com/application/controllers/User.php on line 3718
